@@ -1,0 +1,22 @@
+*{
+  background-color: rgb(200,200,200);
+  color: aqua;
+}
+h1{
+  color: blue;
+  font-family: Helvetica, Verdana, Arial;
+  font-size: 26px;
+}
+
+a:active {
+  color: yellow;
+  margin-bottom: 50px;
+}
+a{
+  padding: 5px;
+  border: 2px solid aqua;
+}
+img{
+  margin-top:  50px;
+  border-radius: 50px
+}
